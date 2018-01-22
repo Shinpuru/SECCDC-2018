@@ -4,8 +4,8 @@
 ---
 
 <hr>
-<h2 id="layout-posttitle-how-to-setup-an-ftp-serverauthor-joshua-araujo">layout: post
-title: How to Setup an FTP Server
+<h2 id="layout-posttitle-how-to-setup-an-ftp-serverauthor-joshua-araujo">layout: post<br>
+title: How to Setup an FTP Server<br>
 author: Joshua Araujo</h2>
 <h3 id="contact">Contact</h3>
 <ul>
@@ -32,11 +32,11 @@ author: Joshua Araujo</h2>
 <p>This guide sets up and configures the Windows Server 2003 as an FTP Server for the SECCDC 2018 Competition.</p>
 <h2 id="creating-the-virtual-machine-a-idid-link-to-sectiona">Creating the Virtual Machine <a id="id-link-to-section"></a></h2>
 <p>Before you can setup your FTP server, you must download this ISO file to install the virtual machine.  Once downloaded, open VirtualBox and click on “New” at the top left.</p>
-<p><img src="Capture.PNG" alt=""></p>
+<p><img src="%5Cpics%5CCapture.PNG" alt=""></p>
 <p>Name your FTP server whatever you’d like and select these options.</p>
-<p>![](Cap 2.PNG)</p>
+<p>![](\pics\Cap 2.PNG)</p>
 <p>Make sure to stay at least at the recommended amount of memory or add more if you’re able to.</p>
-<p>![](Cap 3.PNG)</p>
+<p>![](\pics\Cap 3.PNG)</p>
 <p>Leave the options as is and click create.</p>
 <p>![](Cap 4.PNG)</p>
 <p>Do the same and click next.</p>
@@ -54,7 +54,7 @@ author: Joshua Araujo</h2>
 <p>![](Cap 10.PNG)</p>
 <p>Select the “Internet Protocol (TCP/IP)” option and click on properties.</p>
 <p><img src="Capture3.PNG" alt=""></p>
-<p>Once you’re at this screen, make sure to select the manual options for both IP addresses and DNS server addresses and input these addresses as follows:
+<p>Once you’re at this screen, make sure to select the manual options for both IP addresses and DNS server addresses and input these addresses as follows:<br>
 <br></p>
 
 <table>
