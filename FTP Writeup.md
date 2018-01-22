@@ -32,9 +32,8 @@ author: Joshua Araujo</h2>
 <p>This guide sets up and configures the Windows Server 2003 as an FTP Server for the SECCDC 2018 Competition.</p>
 <h2 id="creating-the-virtual-machine-a-idid-link-to-sectiona">Creating the Virtual Machine <a id="id-link-to-section"></a></h2>
 <p>Before you can setup your FTP server, you must download this ISO file to install the virtual machine.  Once downloaded, open VirtualBox and click on “New” at the top left.</p>
-<p><img src="%5Cpics%5CCapture.PNG" alt=""></p>
 <p>Name your FTP server whatever you’d like and select these options.</p>
-<p>![](/pics/cap 2.PNG)</p>
+<p><img src="/pics/cap%202.PNG" alt=""></p>
 <p>Make sure to stay at least at the recommended amount of memory or add more if you’re able to.</p>
 <p>![](\pics\cap 3.PNG)</p>
 <p>Leave the options as is and click create.</p>
