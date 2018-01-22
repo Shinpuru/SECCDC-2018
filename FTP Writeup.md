@@ -16,10 +16,9 @@ author: Joshua Araujo</h2>
 <h3 id="table">Table</h3>
 <ol>
 <li><a href="#id-link-to-section">Prerequisites</a></li>
-<li><a href="#id-link-to-section">Summary</a></li>
-<li><a href="#id-link-to-section">Creating the Virtual Machine</a></li>
-<li><a href="#id-link-to-section">Installing Windows Server 2003</a></li>
-<li><a href="#id-link-to-section">Setting up the FTP Server</a></li>
+<li><a href="#id0">Summary</a></li>
+<li><a href="#id1">Creating the Virtual Machine</a></li>
+<li><a href="#id2">Installing Windows Server 2003</a></li>
 </ol>
 <h2 id="prerequisites-a-idid-link-to-sectiona">Prerequisites <a id="id-link-to-section"></a></h2>
 <ol>
@@ -28,9 +27,9 @@ author: Joshua Araujo</h2>
 <li>Have the <a href="https://silexone.github.io/guides/nestor/ISPsetup.html">ISP</a> gateway running.</li>
 <li>Have <a href="link-to-guide">pfSense</a> running.</li>
 </ol>
-<h2 id="summary-a-idid-link-to-sectiona">Summary <a id="id-link-to-section"></a></h2>
+<h2 id="summary-a-idid0a">Summary <a id="id0"></a></h2>
 <p>This guide sets up and configures the Windows Server 2003 as an FTP Server for the SECCDC 2018 Competition.</p>
-<h2 id="creating-the-virtual-machine-a-idid-link-to-sectiona">Creating the Virtual Machine <a id="id-link-to-section"></a></h2>
+<h2 id="creating-the-virtual-machine-a-idid1a">Creating the Virtual Machine <a id="id1"></a></h2>
 <p>Before you can setup your FTP server, you must download this ISO file to install the virtual machine.  Once downloaded, open VirtualBox and click on “New” at the top left.</p>
 <p>Name your FTP server whatever you’d like and select these options.</p>
 <p><img src="/pics/cap%202.PNG" alt=""></p>
@@ -42,7 +41,7 @@ author: Joshua Araujo</h2>
 <p><img src="/pics/cap%205.PNG" alt=""></p>
 <p>Name the folder whatever you’d like and click create because 20 GB will be enough space.</p>
 <p><img src="/pics/cap%207.PNG" alt=""></p>
-<h2 id="installing-the-windows-server-2003-a-idid-link-to-sectiona">Installing the Windows Server 2003 <a id="id-link-to-section"></a></h2>
+<h2 id="installing-the-windows-server-2003-a-idid2a">Installing the Windows Server 2003 <a id="id2"></a></h2>
 <p>Once the options are completed, make sure your new server is selected and click start at the top.  Once started, make sure to select the proper ISO file from where you downloaded it from.</p>
 <p>Choose the default options for these first few pages and let the installation process begin.</p>
 <p><img src="/pics/cap%208.PNG" alt=""></p>
