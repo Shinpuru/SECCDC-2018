@@ -35,24 +35,22 @@ author: Joshua Araujo</h2>
 <p>Name your FTP server whatever you’d like and select these options.</p>
 <p><img src="/pics/cap%202.PNG" alt=""></p>
 <p>Make sure to stay at least at the recommended amount of memory or add more if you’re able to.</p>
-<p>![](\pics\cap 3.PNG)</p>
+<p><img src="/pics/cap%203.PNG" alt=""></p>
 <p>Leave the options as is and click create.</p>
-<p>![](Cap 4.PNG)</p>
+<p><img src="/pics/cap%204.PNG" alt=""></p>
 <p>Do the same and click next.</p>
-<p>![](Cap 5.PNG)</p>
+<p><img src="/pics/cap%205.PNG" alt=""></p>
 <p>Name the folder whatever you’d like and click create because 20 GB will be enough space.</p>
-<p>![](Cap 7.PNG)</p>
+<p><img src="/pics/cap%207.PNG" alt=""></p>
 <h2 id="installing-the-windows-server-2003-a-idid-link-to-sectiona">Installing the Windows Server 2003 <a id="id-link-to-section"></a></h2>
 <p>Once the options are completed, make sure your new server is selected and click start at the top.  Once started, make sure to select the proper ISO file from where you downloaded it from.</p>
-<p><img src="Capture1.PNG" alt=""></p>
 <p>Choose the default options for these first few pages and let the installation process begin.</p>
-<p>![](Cap 8.PNG)</p>
+<p><img src="/pics/cap%208.PNG" alt=""></p>
 <p>Once promoted, fill in the boxes with appropriate info and continue through the settings and make sure to set an admin password.</p>
-<p>![](Cap 9.PNG)</p>
+<p><img src="/pics/cap%209.PNG" alt=""></p>
 <p>Instead of choosing “Typical settings”, click on “Custom settings” and click next.</p>
-<p>![](Cap 10.PNG)</p>
+<p><img src="/pics/cap%2010.PNG" alt=""></p>
 <p>Select the “Internet Protocol (TCP/IP)” option and click on properties.</p>
-<p><img src="Capture3.PNG" alt=""></p>
 <p>Once you’re at this screen, make sure to select the manual options for both IP addresses and DNS server addresses and input these addresses as follows:<br>
 <br></p>
 
@@ -81,9 +79,9 @@ author: Joshua Araujo</h2>
 <td>8.8.8.8</td>
 </tr>
 </tbody>
-</table><p>![](Cap 11.PNG)</p>
+</table><p><img src="/pics/cap%2011.PNG" alt=""></p>
 <p>Once you’ve filled in these settings, it should look like this.  Click OK and proceed on.</p>
-<p><img src="Cap12.PNG" alt=""></p>
+<p><img src="/pics/cap%2012.PNG" alt=""></p>
 <p>Let the installation process complete and allow the machine to reboot.  Once the machine has restarted, login to the computer.  Once logged in, a page should open detailing your next steps for getting the server ready.  Click on “Update this server” and run through the update process.  Once that is done restart your machine.  Finally, watch this helpful video on how to finish setting up the FTP Server since it helped me set it up.</p>
 <p><a href="https://www.youtube.com/watch?v=0I7jNC5XIwM">https://www.youtube.com/watch?v=0I7jNC5XIwM</a></p>
 <p><a href="../../">Homepage</a></p>
