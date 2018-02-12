@@ -24,7 +24,7 @@ author: Joshua Araujo
 This guide features the initial setup of the virtual machine, installation of Windows Server 2003, and the creation of FTP servers along with configuring and securing the servers.
 
 ## Setting up and Installing Windows Server 2003 <a id="id1"></a>
-Before you can setup your FTP server, you must download this ISO file to install the virtual machine.  Once downloaded, open VirtualBox and click on 	New at the top left.  Go through the initial setup for creating the virtual machine similarly to the way you did with the first few boxes.  Just make sure to allow yourself enough memory to be able to work in the environment properly.
+Before you can setup your FTP server, you must download this ISO file to install the virtual machine.  Once downloaded, open VirtualBox and click on 		New at the top left.  Go through the initial setup for creating the virtual machine similarly to the way you did with the first few boxes.  Just make sure to allow yourself enough memory to be able to work in the environment properly.
 
 Before starting the virtual machine, make sure it is selected and click on 	Settings.  Once you're in settings, navigate to the 	Network tab and under 	Adapter 1, select 	Host-Only Adapter and choose the adapter representing the LAN.
 
