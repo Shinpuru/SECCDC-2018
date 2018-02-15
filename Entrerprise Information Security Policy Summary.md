@@ -1,6 +1,6 @@
-#The Enterprise Information Security Policy
+# The Enterprise Information Security Policy
 
-##General Guidelines
+## General Guidelines
 
 Information Security is defined as the protection of information and the 
 systems and hardware that use, store, and transmit that information.  This
